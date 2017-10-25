@@ -12,7 +12,7 @@ In cryptography, a Caesar cipher, also known as Caesar's cipher, the shift ciphe
 
 For more information, [see](https://en.wikipedia.org/wiki/Caesar_cipher)
 
-<img src="https://github.com/akshaybahadur21/Caesar/blob/master/caesar.jpg">
+<img src="https://github.com/akshaybahadur21/CaesarCipher/blob/master/caesar.jpg">
 
 
 ```java
